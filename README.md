@@ -6,7 +6,7 @@ CÔNG CỤ ĐƯỢC SỬ DỤNG ĐỂ LÀM ĐỒ ÁN:
 - Eclipse IDE for Enterprise Java and Web Developers 2023–03 , dùng để viết code và xây dựng website.
 - Microsoft SQL Server 2022 , dùng để thiết kế cơ sở dữ liệu.
 - Apache Tomcat 8.5.85 , máy chủ ứng dụng WEB Java.
-- Microsoft Word 2019 , dùng để làm file .DOCX báo cáo đồ án.
+- Microsoft Word 2019 , dùng để làm file .docx báo cáo đồ án.
 
 
 
