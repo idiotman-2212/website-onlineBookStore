@@ -35,7 +35,7 @@ Video demo: https://drive.google.com/drive/folders/1M_F31wK6YZuIZZNI3h-KEszoIGKZ
   * Xem thông tin về trang web. (địa chỉ, thông tin liên hệ)
   * Xem thông tin chi tiết sách.
   * Đăng ký tài khoản.
-- Hỗ trợ 2 ngôn ngữ chính: TIẾNG ANH & TIẾNG VIỆT 
+- Hỗ trợ 2 ngôn ngữ chính: TIẾNG ANH & TIẾNG VIỆT
   MÔ HÌNH DIAGRAM
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/170ecc97-7ace-4c1e-ac7d-a328f402fbc0)
 
