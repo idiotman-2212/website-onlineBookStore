@@ -41,3 +41,7 @@ Video demo: https://drive.google.com/drive/folders/1M_F31wK6YZuIZZNI3h-KEszoIGKZ
 MÔ HÌNH DIAGRAM
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/170ecc97-7ace-4c1e-ac7d-a328f402fbc0)
 
+DEMO GIAO DIỆN
+- Người quản trị
+   * Trang chủ
+![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/f908cee4-e590-4176-ac95-f2b3e74ad55e)
