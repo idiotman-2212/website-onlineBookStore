@@ -46,16 +46,20 @@ Video demo: https://drive.google.com/drive/folders/1M_F31wK6YZuIZZNI3h-KEszoIGKZ
 - Người quản trị
    * Trang chủ
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/f908cee4-e590-4176-ac95-f2b3e74ad55e)
+
    * Trang quản lí tác giả
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/185a8333-5ef2-49de-afaa-52c254255b3e)
+
    * Trang quản lí loại sách
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/c3949577-a15e-4a98-a9c3-2ffbff9ed2d2)
+
    * Trang quản lí nhân viên
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/2379e48e-d908-4780-af4f-51aa2a8852bf)
 
 - Nhân viên (Các chức năng tương tự như ngươi quản trị, nhưng không có chức năng quản lí nhân viên)
 - Chức năng đăng nhâp
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/e1abfda8-6545-4c74-a2d4-04da0bac8870)
+
 - Chức năng đăng kí
 ![image](https://github.com/idiotman-2212/website-onlineBookStore/assets/82036270/b48ca06d-99d0-4a90-bb40-a24d3722c73b)
 
